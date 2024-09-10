@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Michael Oluwasola
 A passionate bioinformatician, AI researcher and full stack engineer<br>🔭 I’m currently working developing multi-target inhibitors against digestive enzymes<br><br>🌱 I'm currently learning cloud concepts with aws and trying out new languages and frameworks<br><br>👯 I'm looking to collaborate on cloud as well as AI solutions,<br><br>💬 Feel free to engage me on questions around architecting software solutions, building systems that scale, AI, and cloud-native solutions amongst others<br>
 
 
